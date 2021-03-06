@@ -1,4 +1,9 @@
-# netflix_clone
+# Netflix Clone App UI
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on Youtube Part I](https://youtu.be/zaPLWwWpZlM)
+
+![App UI](https://user-images.githubusercontent.com/16510597/110208650-0acb1e80-7ebb-11eb-8a21-9a9dd6b113c0.jpg)
 
 A new Flutter project.
 
